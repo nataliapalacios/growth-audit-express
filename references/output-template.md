@@ -1,6 +1,6 @@
 # Output template
 
-Write the report in the language the user asks for. Default: the language of the request.
+Write the report in the language the user asks for. Default: English.
 Target length: 2–3 pages. A CEO should get the point from section 1 alone.
 
 ---

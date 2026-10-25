@@ -64,7 +64,7 @@ Benchmark: https://competitor.com
 Markets: FR, ES, UK (UK = London, not the global English site)
 Focus: B2C lead generation for <main product>
 Primary KPI: cost per qualified lead
-Report language: French
+Report language: English
 I'll send ad library screenshots and AI answers when you ask for them.
 ```
 
@@ -104,6 +104,8 @@ Some sources need a human with a browser. The skill will ask for them:
 The headline it found: the client wins Spain through paid social and public funding, but loses France and the UK, where the benchmark wins without a single Meta ad, through public funding and AI visibility.
 
 It's one example of the method. Swap the URLs and markets to audit any category.
+
+*The example is an independent analysis of public information (websites, public ad libraries, AI answers) as of October 2026. It is not affiliated with, endorsed by or commissioned by any of the brands named. Brand names are used only to identify them.*
 
 ## Structure
 

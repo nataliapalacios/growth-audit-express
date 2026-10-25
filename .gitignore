@@ -1,2 +1,4 @@
 *.zip
 .DS_Store
+_evidence/
+_private/

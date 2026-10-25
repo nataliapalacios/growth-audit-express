@@ -20,7 +20,7 @@ If a required input is missing, ask once, then proceed.
 3. **Score** — 7 dimensions, 1–5, one piece of evidence per score. → `references/dimensions.md`
 4. **Prioritize** — ICE scoring. Top 3 quick wins per market + 1 cross-market bet. → `references/ice.md`
 5. **Plan** — 30-day test-and-learn plan: hypothesis, channel, KPI, tracking needed, week. → `references/ice.md`
-6. **Deliver** — Report following `references/output-template.md`, in the language the user asks for.
+6. **Deliver** — Report following `references/output-template.md`, in the language the user asks for (default: English).
 
 ## Rules
 - No evidence, no score. Write "n/a — not observable" instead.
