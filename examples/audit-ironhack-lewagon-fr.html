@@ -111,9 +111,10 @@ table.matrix{border-collapse:separate;border-spacing:4px;min-width:640px;width:1
 .week .eyebrow{color:var(--accent)}
 .week h3{font-size:1rem}
 .week p{font-size:.85rem}
-.week dl{margin:4px 0 0;display:grid;grid-template-columns:auto 1fr;gap:3px 8px;font-size:.78rem}
-.week dt{font-family:var(--mono);color:var(--muted)}
-.week dd{margin:0;min-width:0;overflow-wrap:anywhere}
+.week dl{margin:4px 0 0;display:flex;flex-direction:column;font-size:.78rem}
+.week dt{font-family:var(--mono);color:var(--muted);font-size:.72rem;text-transform:uppercase;letter-spacing:.04em}
+.week dd{margin:0 0 8px;min-width:0;overflow-wrap:break-word}
+.week dd:last-child{margin-bottom:0}
 
 /* Method */
 .method{border-top:1px solid var(--line);padding-top:24px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px 32px;font-size:.85rem;color:var(--muted)}
